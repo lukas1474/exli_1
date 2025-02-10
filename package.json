@@ -101,7 +101,7 @@
     "testEnvironment": "jsdom"
   },
   "dependencies": {
-    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@babel/plugin-transform-runtime": "^7.26.8",
     "axios": "^0.21.4",
     "jest-environment-jsdom": "^27.2.5",
     "jest-fetch-mock": "^3.0.3",
